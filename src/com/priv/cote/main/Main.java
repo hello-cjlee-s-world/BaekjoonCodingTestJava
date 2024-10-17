@@ -1,10 +1,6 @@
 package com.priv.cote.main;
 
-import com.priv.cote.component.conditional.ACompareB;
-import com.priv.cote.component.conditional.LeafYear;
-import com.priv.cote.component.conditional.Quadrant;
-import com.priv.cote.component.conditional.TestScore;
-import com.priv.cote.component.inputouput.*;
+import com.priv.cote.component.conditional.*;
 
 public class Main {
     public static void main(String[] args) throws Exception {
@@ -17,9 +13,11 @@ public class Main {
 //        new APlusTripleB().plusTriple();
 //        new PrintCat().printCat();
 //        new PrintDog().printDog();
-//        new ACompareB().compare();
-//        new TestScore().score();
+//        new ACompareB().print();
+//        new TestScore().print();
 //        new LeafYear().print();
-        new Quadrant().print();
+//        new Quadrant().print();
+//        new AlarmClock().print();
+        new OvenClock().print();
     }
 }
