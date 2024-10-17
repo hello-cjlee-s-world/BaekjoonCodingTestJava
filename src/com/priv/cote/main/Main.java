@@ -18,6 +18,7 @@ public class Main {
 //        new LeafYear().print();
 //        new Quadrant().print();
 //        new AlarmClock().print();
-        new OvenClock().print();
+//        new OvenClock().print();
+        new Dice().print();
     }
 }
