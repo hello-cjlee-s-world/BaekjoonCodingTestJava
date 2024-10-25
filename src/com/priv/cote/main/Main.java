@@ -28,6 +28,7 @@ public class Main {
 //        new FastAPlusB().print();
 //        new BeautifulAPlusB().print();
 //        new BeautifulAPlusB2().print();
-        new Stars1().print();
+//        new Stars1().print();
+        new Stars2().print();
     }
 }
