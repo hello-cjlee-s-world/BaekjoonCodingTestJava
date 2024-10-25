@@ -1,10 +1,7 @@
 package com.priv.cote.main;
 
 import com.priv.cote.component.conditional.*;
-import com.priv.cote.component.loop.AAddBLoof;
-import com.priv.cote.component.loop.NineNineDan;
-import com.priv.cote.component.loop.OneToN;
-import com.priv.cote.component.loop.Receipt;
+import com.priv.cote.component.loop.*;
 
 public class Main {
     public static void main(String[] args) throws Exception {
@@ -27,6 +24,7 @@ public class Main {
 //        new NineNineDan().print();
 //        new AAddBLoof().print();
 //        new OneToN().print();
-        new Receipt().print();
+//        new Receipt().print();
+        new CodingIsPhysical().print();
     }
 }
