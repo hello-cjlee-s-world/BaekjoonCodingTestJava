@@ -27,6 +27,7 @@ public class Main {
 //        new Receipt().print();
 //        new CodingIsPhysical().print();
 //        new FastAPlusB().print();
-        new BeautifulAPlusB().print();
+//        new BeautifulAPlusB().print();
+        new BeautifulAPlusB2().print();
     }
 }
