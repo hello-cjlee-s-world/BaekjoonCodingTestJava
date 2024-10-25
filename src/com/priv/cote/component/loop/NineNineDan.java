@@ -13,7 +13,7 @@ public class NineNineDan implements BasicInterface {
         int n = Integer.parseInt(br.readLine());
         for (int i = 1; i < 10; i++) {
 
-            bw.append(String.valueOf(n)).append(" * ").append(String.valueOf(i)).append(" = ").append(String.valueOf(n * i)).append("\n");
+            bw.append(String.valueOf(n)).append(" * ").append(String.valueOf(i)).append(" = ").append(String.valueOf(n * i)).append("\n") ;
         }
         bw.flush();
         bw.close();
