@@ -1,10 +1,12 @@
 package com.priv.cote.component.inputouput;
 
+import com.priv.cote.main.BasicInterface;
+
 import java.io.*;
 import java.util.StringTokenizer;
 
-public class AMultiplicationProcessB {
-    public void multiplicationProcess() throws IOException {
+public class AMultiplicationProcessB implements BasicInterface {
+    public void print() throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
         int a = Integer.parseInt(br.readLine());

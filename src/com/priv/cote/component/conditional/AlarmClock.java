@@ -1,9 +1,11 @@
 package com.priv.cote.component.conditional;
 
+import com.priv.cote.main.BasicInterface;
+
 import java.io.*;
 import java.util.StringTokenizer;
 
-public class AlarmClock {
+public class AlarmClock implements BasicInterface {
     public void print () throws IOException {
         BufferedReader br = new BufferedReader (new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter (new OutputStreamWriter(System.out));
