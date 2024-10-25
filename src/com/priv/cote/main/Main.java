@@ -4,6 +4,7 @@ import com.priv.cote.component.conditional.*;
 import com.priv.cote.component.loop.AAddBLoof;
 import com.priv.cote.component.loop.NineNineDan;
 import com.priv.cote.component.loop.OneToN;
+import com.priv.cote.component.loop.Receipt;
 
 public class Main {
     public static void main(String[] args) throws Exception {
@@ -25,6 +26,7 @@ public class Main {
 //        new Dice().print();
 //        new NineNineDan().print();
 //        new AAddBLoof().print();
-        new OneToN().print();
+//        new OneToN().print();
+        new Receipt().print();
     }
 }
