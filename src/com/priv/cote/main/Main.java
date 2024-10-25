@@ -30,6 +30,7 @@ public class Main {
 //        new BeautifulAPlusB2().print();
 //        new Stars1().print();
 //        new Stars2().print();
-        new AAddBLoofLast0().print();
+//        new AAddBLoofLast0().print();
+        new AAddBLoofNoLast().print();
     }
 }
