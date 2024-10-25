@@ -25,6 +25,7 @@ public class Main {
 //        new AAddBLoof().print();
 //        new OneToN().print();
 //        new Receipt().print();
-        new CodingIsPhysical().print();
+//        new CodingIsPhysical().print();
+        new FastAPlusB().print();
     }
 }
