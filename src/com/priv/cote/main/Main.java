@@ -1,6 +1,7 @@
 package com.priv.cote.main;
 
 import com.priv.cote.component.conditional.*;
+import com.priv.cote.component.loop.AAddBLoof;
 import com.priv.cote.component.loop.NineNineDan;
 
 public class Main {
@@ -21,6 +22,7 @@ public class Main {
 //        new AlarmClock().print();
 //        new OvenClock().print();
 //        new Dice().print();
-        new NineNineDan().print();
+//        new NineNineDan().print();
+        new AAddBLoof().print();
     }
 }
