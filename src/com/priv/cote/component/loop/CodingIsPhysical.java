@@ -1,16 +1,19 @@
-package com.priv.cote.component.inputouput;
+package com.priv.cote.component.loop;
 
 import com.priv.cote.main.BasicInterface;
 
 import java.io.*;
-import java.util.StringTokenizer;
 
-public class ADivisionB implements BasicInterface {
+public class CodingIsPhysical implements BasicInterface {
+    @Override
     public void print() throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st = new StringTokenizer(br.readLine(), " ");
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
-        bw.write(String.valueOf(Double.parseDouble(st.nextToken()) / Double.parseDouble(st.nextToken())));
+        int n = Integer.parseInt(br.readLine()) / 4;
+        for (int i = 0; i < n; i++) {
+            bw.append("long ");
+        }
+        bw.append("int");
         bw.flush();
         bw.close();
     }
