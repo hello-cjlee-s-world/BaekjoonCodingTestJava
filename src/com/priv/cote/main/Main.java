@@ -1,6 +1,5 @@
 package com.priv.cote.main;
 
-import com.priv.cote.component.conditional.*;
 import com.priv.cote.component.loop.*;
 
 public class Main {
@@ -28,6 +27,7 @@ public class Main {
 //        new CodingIsPhysical().print();
 //        new FastAPlusB().print();
 //        new BeautifulAPlusB().print();
-        new BeautifulAPlusB2().print();
+//        new BeautifulAPlusB2().print();
+        new Stars1().print();
     }
 }
