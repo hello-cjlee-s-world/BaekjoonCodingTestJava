@@ -1,5 +1,6 @@
 package com.priv.cote.main;
 
+import com.priv.cote.component.OneDimensionalArray.CountNumber;
 import com.priv.cote.component.loop.*;
 
 public class Main {
@@ -31,6 +32,7 @@ public class Main {
 //        new Stars1().print();
 //        new Stars2().print();
 //        new AAddBLoofLast0().print();
-        new AAddBLoofNoLast().print();
+//        new AAddBLoofNoLast().print();
+        new CountNumber().print();
     }
 }
