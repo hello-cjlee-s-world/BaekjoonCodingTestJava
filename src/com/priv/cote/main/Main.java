@@ -1,9 +1,6 @@
 package com.priv.cote.main;
 
-import com.priv.cote.component.OneDimensionalArray.CountNumber;
-import com.priv.cote.component.OneDimensionalArray.MinMax;
-import com.priv.cote.component.OneDimensionalArray.SmallThanX;
-import com.priv.cote.component.OneDimensionalArray.WhereIsMax;
+import com.priv.cote.component.OneDimensionalArray.*;
 import com.priv.cote.component.loop.*;
 
 public class Main {
@@ -39,6 +36,7 @@ public class Main {
 //        new CountNumber().print();
 //        new SmallThanX().print();
 //        new MinMax().print();
-        new WhereIsMax().print();
+//        new WhereIsMax().print();
+        new PlaceBall().print();
     }
 }
