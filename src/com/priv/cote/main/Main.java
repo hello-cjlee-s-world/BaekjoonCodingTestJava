@@ -38,6 +38,7 @@ public class Main {
 //        new MinMax().print();
 //        new WhereIsMax().print();
 //        new PlaceBall().print();
-        new ChangeBall().print();
+//        new ChangeBall().print();
+        new Homework().print();
     }
 }
