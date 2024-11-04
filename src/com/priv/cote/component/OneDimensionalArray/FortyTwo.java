@@ -15,8 +15,8 @@ public class FortyTwo implements BasicInterface {
             arr[a] = arr[a]+1;
         }
         int rst = 0;
-        for(int i = 0; i < arr.length; i++) {
-            if(arr[i] > 0) {
+        for (int j : arr) {
+            if (j > 0) {
                 rst++;
             }
         }
