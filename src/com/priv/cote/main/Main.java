@@ -37,6 +37,7 @@ public class Main {
 //        new SmallThanX().print();
 //        new MinMax().print();
 //        new WhereIsMax().print();
-        new PlaceBall().print();
+//        new PlaceBall().print();
+        new ChangeBall().print();
     }
 }
