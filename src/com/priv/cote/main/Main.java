@@ -40,6 +40,7 @@ public class Main {
 //        new PlaceBall().print();
 //        new ChangeBall().print();
 //        new Homework().print();
-        new FortyTwo().print();
+//        new FortyTwo().print();
+        new ReverseBasket().print();
     }
 }
