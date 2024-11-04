@@ -41,6 +41,7 @@ public class Main {
 //        new ChangeBall().print();
 //        new Homework().print();
 //        new FortyTwo().print();
-        new ReverseBasket().print();
+//        new ReverseBasket().print();
+        new TestAvgFake().print();
     }
 }
