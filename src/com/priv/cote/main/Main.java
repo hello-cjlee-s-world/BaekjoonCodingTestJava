@@ -2,10 +2,7 @@ package com.priv.cote.main;
 
 import com.priv.cote.component.OneDimensionalArray.*;
 import com.priv.cote.component.loop.*;
-import com.priv.cote.component.string.StringAndString;
-import com.priv.cote.component.string.StringLength;
-import com.priv.cote.component.string.StringString;
-import com.priv.cote.component.string.StringToAscii;
+import com.priv.cote.component.string.*;
 
 public class Main {
     public static void main(String[] args) throws Exception {
@@ -50,6 +47,7 @@ public class Main {
 //        new StringAndString().print();
 //        new StringLength().print();
 //        new StringString().print();
-        new StringToAscii().print();
+//        new StringToAscii().print();
+        new TotalOfString().print();
     }
 }
