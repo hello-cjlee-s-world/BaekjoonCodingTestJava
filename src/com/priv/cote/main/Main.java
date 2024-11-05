@@ -48,6 +48,7 @@ public class Main {
 //        new StringToAscii().print();
 //        new TotalOfString().print();
 //        new FindAlphabet().print();
-        new StringLoop().print();
+//        new StringLoop().print();
+        new CountWords().print();
     }
 }
