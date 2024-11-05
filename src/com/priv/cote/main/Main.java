@@ -3,6 +3,7 @@ package com.priv.cote.main;
 import com.priv.cote.component.OneDimensionalArray.*;
 import com.priv.cote.component.loop.*;
 import com.priv.cote.component.string.StringAndString;
+import com.priv.cote.component.string.StringLength;
 
 public class Main {
     public static void main(String[] args) throws Exception {
@@ -44,6 +45,7 @@ public class Main {
 //        new FortyTwo().print();
 //        new ReverseBasket().print();
 //        new TestAvgFake().print();
-        new StringAndString().print();
+//        new StringAndString().print();
+        new StringLength().print();
     }
 }
