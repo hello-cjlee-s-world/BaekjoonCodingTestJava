@@ -47,6 +47,7 @@ public class Main {
 //        new StringString().print();
 //        new StringToAscii().print();
 //        new TotalOfString().print();
-        new FindAlphabet().print();
+//        new FindAlphabet().print();
+        new StringLoop().print();
     }
 }
