@@ -1,7 +1,5 @@
 package com.priv.cote.main;
 
-import com.priv.cote.component.OneDimensionalArray.*;
-import com.priv.cote.component.loop.*;
 import com.priv.cote.component.string.*;
 
 public class Main {
@@ -48,6 +46,7 @@ public class Main {
 //        new StringLength().print();
 //        new StringString().print();
 //        new StringToAscii().print();
-        new TotalOfString().print();
+//        new TotalOfString().print();
+        new FindAlphabet().print();
     }
 }
