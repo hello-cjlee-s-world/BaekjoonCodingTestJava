@@ -50,6 +50,7 @@ public class Main {
 //        new FindAlphabet().print();
 //        new StringLoop().print();
 //        new CountWords().print();
-        new Constant().print();
+//        new Constant().print();
+        new PrintSame().print();
     }
 }
