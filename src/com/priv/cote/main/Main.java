@@ -51,6 +51,7 @@ public class Main {
 //        new StringLoop().print();
 //        new CountWords().print();
 //        new Constant().print();
-        new PrintSame().print();
+//        new PrintSame().print();
+        new Dial().print();
     }
 }
