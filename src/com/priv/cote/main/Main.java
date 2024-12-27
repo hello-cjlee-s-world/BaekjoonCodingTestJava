@@ -1,6 +1,7 @@
 package com.priv.cote.main;
 
 import com.priv.cote.component.deeping1.KingQueenLook;
+import com.priv.cote.component.deeping1.Palindrome;
 import com.priv.cote.component.deeping1.Sprout;
 import com.priv.cote.component.deeping1.StarDrawing;
 import com.priv.cote.component.string.*;
@@ -58,6 +59,7 @@ public class Main {
 //        new Dial().print();
 //        new Sprout().print();
 //        new KingQueenLook().print();
-        new StarDrawing().print();
+//        new StarDrawing().print();
+        new Palindrome().print();
     }
 }
