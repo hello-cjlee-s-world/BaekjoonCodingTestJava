@@ -58,6 +58,6 @@ public class Main {
 //        new KingQueenLook().print();
 //        new StarDrawing().print();
 //        new Palindrome().print();
-        new StudyWords().print();
+        new CroatiaWords().print();
     }
 }
