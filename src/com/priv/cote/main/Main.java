@@ -59,6 +59,7 @@ public class Main {
 //        new StarDrawing().print();
 //        new Palindrome().print();
 //        new CroatiaWords().print();
-        new GroupWordChecker().print();
+//        new GroupWordChecker().print();
+        new YourScoreIs().print();
     }
 }
