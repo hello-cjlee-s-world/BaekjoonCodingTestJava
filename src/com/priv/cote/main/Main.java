@@ -1,5 +1,6 @@
 package com.priv.cote.main;
 
+import com.priv.cote.component.TwoDimentionArray.MatrixAddition;
 import com.priv.cote.component.deeping1.*;
 import com.priv.cote.component.string.*;
 
@@ -60,6 +61,7 @@ public class Main {
 //        new Palindrome().print();
 //        new CroatiaWords().print();
 //        new GroupWordChecker().print();
-        new YourScoreIs().print();
+//      new YourScoreIs().print();
+      new MatrixAddition().print();
     }
 }
