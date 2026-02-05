@@ -2,6 +2,7 @@ package com.priv.cote.main;
 
 import com.priv.cote.component.TwoDimentionArray.MatrixAddition;
 import com.priv.cote.component.TwoDimentionArray.MaxValue;
+import com.priv.cote.component.TwoDimentionArray.VerticalRead;
 import com.priv.cote.component.deeping1.*;
 import com.priv.cote.component.string.*;
 
@@ -64,6 +65,7 @@ public class Main {
 //        new GroupWordChecker().print();
 //      new YourScoreIs().print();
 //      new MatrixAddition().print();
-      new MaxValue().print();
+//      new MaxValue().print();
+      new VerticalRead().print();
     }
 }
