@@ -1,5 +1,6 @@
 package com.priv.cote.main;
 
+import com.priv.cote.component.TwoDimentionArray.ColoredPaper;
 import com.priv.cote.component.TwoDimentionArray.MatrixAddition;
 import com.priv.cote.component.TwoDimentionArray.MaxValue;
 import com.priv.cote.component.TwoDimentionArray.VerticalRead;
@@ -66,6 +67,7 @@ public class Main {
 //      new YourScoreIs().print();
 //      new MatrixAddition().print();
 //      new MaxValue().print();
-      new VerticalRead().print();
+//      new VerticalRead().print();
+      new ColoredPaper().print();
     }
 }
