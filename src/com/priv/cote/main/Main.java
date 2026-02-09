@@ -5,6 +5,7 @@ import com.priv.cote.component.TwoDimentionArray.MatrixAddition;
 import com.priv.cote.component.TwoDimentionArray.MaxValue;
 import com.priv.cote.component.TwoDimentionArray.VerticalRead;
 import com.priv.cote.component.deeping1.*;
+import com.priv.cote.component.mathmatics.BaseConversion;
 import com.priv.cote.component.string.*;
 
 public class Main {
@@ -68,6 +69,7 @@ public class Main {
 //      new MatrixAddition().print();
 //      new MaxValue().print();
 //      new VerticalRead().print();
-      new ColoredPaper().print();
+//      new ColoredPaper().print();
+      new BaseConversion().print();
     }
 }
