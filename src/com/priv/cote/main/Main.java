@@ -6,6 +6,8 @@ import com.priv.cote.component.TwoDimentionArray.MaxValue;
 import com.priv.cote.component.TwoDimentionArray.VerticalRead;
 import com.priv.cote.component.deeping1.*;
 import com.priv.cote.component.mathmatics.BaseConversion;
+import com.priv.cote.component.mathmatics.BaseConversion2;
+import com.priv.cote.component.mathmatics.Laundry;
 import com.priv.cote.component.string.*;
 
 public class Main {
@@ -70,6 +72,8 @@ public class Main {
 //      new MaxValue().print();
 //      new VerticalRead().print();
 //      new ColoredPaper().print();
-      new BaseConversion().print();
+//      new BaseConversion().print();
+//      new BaseConversion2().print();
+      new Laundry().print();
     }
 }
