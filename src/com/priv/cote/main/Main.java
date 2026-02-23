@@ -73,6 +73,7 @@ public class Main {
 //      new BaseConversion().print();
 //      new BaseConversion2().print();
 //      new CenterMoveAlgorithm().print();
-      new BeeHouse().print();
+//      new BeeHouse().print();
+      new Fraction().print();
     }
 }
