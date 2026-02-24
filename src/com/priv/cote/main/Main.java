@@ -74,6 +74,7 @@ public class Main {
 //      new BaseConversion2().print();
 //      new CenterMoveAlgorithm().print();
 //      new BeeHouse().print();
-      new Fraction().print();
+//      new Fraction().print();
+      new Snail().print();
     }
 }
