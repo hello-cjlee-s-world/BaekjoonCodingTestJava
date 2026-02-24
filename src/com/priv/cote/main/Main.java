@@ -5,6 +5,7 @@ import com.priv.cote.component.TwoDimentionArray.MatrixAddition;
 import com.priv.cote.component.TwoDimentionArray.MaxValue;
 import com.priv.cote.component.TwoDimentionArray.VerticalRead;
 import com.priv.cote.component.deeping1.*;
+import com.priv.cote.component.divisorMultipleDecimal.Divisor;
 import com.priv.cote.component.divisorMultipleDecimal.MultipleDivisor;
 import com.priv.cote.component.mathmatics.*;
 import com.priv.cote.component.string.*;
@@ -77,6 +78,7 @@ public class Main {
 //      new BeeHouse().print();
 //      new Fraction().print();
 //      new Snail().print();
-      new MultipleDivisor().print();
+//      new MultipleDivisor().print();
+      new Divisor().print();
     }
 }
