@@ -5,10 +5,7 @@ import com.priv.cote.component.TwoDimentionArray.MatrixAddition;
 import com.priv.cote.component.TwoDimentionArray.MaxValue;
 import com.priv.cote.component.TwoDimentionArray.VerticalRead;
 import com.priv.cote.component.deeping1.*;
-import com.priv.cote.component.divisorMultipleDecimal.Divisor;
-import com.priv.cote.component.divisorMultipleDecimal.DivisorSum;
-import com.priv.cote.component.divisorMultipleDecimal.MultipleDivisor;
-import com.priv.cote.component.divisorMultipleDecimal.PrimeNumber;
+import com.priv.cote.component.divisorMultipleDecimal.*;
 import com.priv.cote.component.mathmatics.*;
 import com.priv.cote.component.string.*;
 
@@ -83,6 +80,7 @@ public class Main {
 //      new MultipleDivisor().print();
 //      new Divisor().print();
 //      new DivisorSum().print();
-      new PrimeNumber().print();
+//      new PrimeNumber().print();
+      new PrimeNumber2().print();
     }
 }
