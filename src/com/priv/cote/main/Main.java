@@ -8,6 +8,7 @@ import com.priv.cote.component.deeping1.*;
 import com.priv.cote.component.divisorMultipleDecimal.Divisor;
 import com.priv.cote.component.divisorMultipleDecimal.DivisorSum;
 import com.priv.cote.component.divisorMultipleDecimal.MultipleDivisor;
+import com.priv.cote.component.divisorMultipleDecimal.PrimeNumber;
 import com.priv.cote.component.mathmatics.*;
 import com.priv.cote.component.string.*;
 
@@ -81,6 +82,7 @@ public class Main {
 //      new Snail().print();
 //      new MultipleDivisor().print();
 //      new Divisor().print();
-      new DivisorSum().print();
+//      new DivisorSum().print();
+      new PrimeNumber().print();
     }
 }
