@@ -81,6 +81,7 @@ public class Main {
 //      new Divisor().print();
 //      new DivisorSum().print();
 //      new PrimeNumber().print();
-      new PrimeNumber2().print();
+//      new PrimeNumber2().print();
+      new PrimeFactorization().print();
     }
 }
