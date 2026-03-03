@@ -1,5 +1,6 @@
 package com.priv.cote.main;
 
+import com.priv.cote.component.SquareTriangle.EscapeSquare;
 import com.priv.cote.component.SquareTriangle.SquareSize;
 import com.priv.cote.component.TwoDimentionArray.ColoredPaper;
 import com.priv.cote.component.TwoDimentionArray.MatrixAddition;
@@ -84,6 +85,7 @@ public class Main {
 //      new PrimeNumber().print();
 //      new PrimeNumber2().print();
 //      new PrimeFactorization().print();
-      new SquareSize().print();
+//      new SquareSize().print();
+      new EscapeSquare().print();
     }
 }
