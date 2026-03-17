@@ -1,9 +1,9 @@
 package com.priv.cote.main;
 
-import com.priv.cote.component.timeComplexity.Algorythm1;
+import com.priv.cote.component.timeComplexity.Algorythm2;
 
 public class Main {
     public static void main(String[] args) throws Exception {
-      new Algorythm1().print();
+      new Algorythm2().print();
     }
 }
