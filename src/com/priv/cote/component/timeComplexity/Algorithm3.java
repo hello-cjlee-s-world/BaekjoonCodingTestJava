@@ -4,7 +4,7 @@ import com.priv.cote.main.BasicInterface;
 
 import java.io.*;
 
-public class Algorythm3 implements BasicInterface {
+public class Algorithm3 implements BasicInterface {
     @Override
     public void print() throws IOException {
       BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
