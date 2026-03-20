@@ -1,9 +1,9 @@
 package com.priv.cote.main;
 
-import com.priv.cote.component.timeComplexity.Algorythm6;
+import com.priv.cote.component.bruteForce.BlackJack;
 
 public class Main {
     public static void main(String[] args) throws Exception {
-      new Algorythm6().print();
+      new BlackJack().print();
     }
 }
