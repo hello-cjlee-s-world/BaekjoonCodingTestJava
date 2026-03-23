@@ -1,9 +1,9 @@
 package com.priv.cote.main;
 
-import com.priv.cote.component.bruteForce.ConstructorSum;
+import com.priv.cote.component.bruteForce.MathIsNoneFace;
 
 public class Main {
     public static void main(String[] args) throws Exception {
-      new ConstructorSum().print();
+      new MathIsNoneFace().print();
     }
 }
