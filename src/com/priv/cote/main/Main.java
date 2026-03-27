@@ -1,9 +1,9 @@
 package com.priv.cote.main;
 
-import com.priv.cote.component.bruteForce.MathIsNoneFace;
+import com.priv.cote.component.bruteForce.ChessColoring;
 
 public class Main {
     public static void main(String[] args) throws Exception {
-      new MathIsNoneFace().print();
+      new ChessColoring().print();
     }
 }
