@@ -1,9 +1,9 @@
 package com.priv.cote.main;
 
-import com.priv.cote.component.sort.RepresentativeValue;
+import com.priv.cote.component.sort.CutLine;
 
 public class Main {
     public static void main(String[] args) throws Exception {
-      new RepresentativeValue().print();
+      new CutLine().print();
     }
 }
