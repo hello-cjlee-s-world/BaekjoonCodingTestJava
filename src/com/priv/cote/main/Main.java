@@ -1,9 +1,9 @@
 package com.priv.cote.main;
 
-import com.priv.cote.component.sort.CutLine;
+import com.priv.cote.component.sort.NumberSort2;
 
 public class Main {
     public static void main(String[] args) throws Exception {
-      new CutLine().print();
+      new NumberSort2().print();
     }
 }
