@@ -1,9 +1,9 @@
 package com.priv.cote.main;
 
-import com.priv.cote.component.sort.CoordinateCompression;
+import com.priv.cote.component.setMap.NumberCard;
 
 public class Main {
     public static void main(String[] args) throws Exception {
-      new CoordinateCompression().print();
+      new NumberCard().print();
     }
 }
