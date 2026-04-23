@@ -1,9 +1,9 @@
 package com.priv.cote.main;
 
-import com.priv.cote.component.setMap.InCompanyPeople;
+import com.priv.cote.component.setMap.PocketmonMasterDasom;
 
 public class Main {
     public static void main(String[] args) throws Exception {
-      new InCompanyPeople().print();
+      new PocketmonMasterDasom().print();
     }
 }
